@@ -1,0 +1,20 @@
+﻿  Main.cpp
+Main.cpp(1): warning C4005: '_CRT_SECURE_NO_DEPRECATE': macro redefinition
+  Main.cpp(1): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+Main.cpp(60): warning C4101: 'center': unreferenced local variable
+  objloader.cpp
+objloader.cpp(106): warning C4474: 'printf' : too many arguments passed for format string
+  objloader.cpp(106): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+objloader.cpp(150): warning C4101: 'uvIndex': unreferenced local variable
+objloader.cpp(265): warning C4474: 'printf' : too many arguments passed for format string
+  objloader.cpp(265): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  OpenGL_depth.cpp
+OpenGL_depth.cpp(338): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+OpenGL_depth.cpp(589): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+OpenGL_depth.cpp(712): warning C4101: 'e': unreferenced local variable
+  textfile.cpp
+textfile.cpp(37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 459 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Render_Segments.vcxproj -> D:\Ji_PlexVR\OpenGL_Segment\Render_Segments\x64\Release\Render_Segments.exe

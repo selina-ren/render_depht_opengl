@@ -1,0 +1,66 @@
+﻿  textfile.cpp
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\textfile.cpp(27): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\textfile.cpp(52): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  OpenGL_depth.cpp
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(345): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(475): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(476): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(637): note: see declaration of '_itoa'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(477): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(478): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(480): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(637): note: see declaration of '_itoa'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(481): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(482): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(484): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(637): note: see declaration of '_itoa'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(485): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(486): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\opengl_depth.cpp(712): warning C4101: 'e': unreferenced local variable
+  objloader.cpp
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(37): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(48): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(56): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(60): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(66): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(106): warning C4474: 'printf' : too many arguments passed for format string
+  d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(106): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(123): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(134): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(142): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(146): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(152): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(150): warning C4101: 'uvIndex': unreferenced local variable
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(205): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(216): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(224): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(231): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(265): warning C4474: 'printf' : too many arguments passed for format string
+  d:\ji_plexvr\opengl_segment\render_segments\render_segments\objloader.cpp(265): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Main.cpp
+d:\ji_plexvr\opengl_segment\render_segments\render_segments\main.cpp(60): warning C4101: 'center': unreferenced local variable
+  Generating Code...
